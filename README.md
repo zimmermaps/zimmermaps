@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="docs/fig4a_slice.png" alt="profile map" width="100%">
+</p>
 # Hello! 👋
 
 I'm Andy Zimmer, a geospatial scientist currently based at Oak Ridge National Laboratory.
