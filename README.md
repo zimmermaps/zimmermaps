@@ -14,3 +14,5 @@ I also teach and mentor students in geography, climate, and geospatial analysis,
 ### Connect
 
 [ORNL](https://www.ornl.gov/staff-profile/andrew-zimmer) · [Google Scholar](https://scholar.google.com/citations?user=1-Xk5zMAAAAJ) · [ORCID](https://orcid.org/0000-0001-7683-8713) · [Email](mailto:zimmera@ornl.gov)
+
+![Animated maps of 18 cities](docs/everest-18-panel.gif)
