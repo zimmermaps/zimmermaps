@@ -1,14 +1,16 @@
-# Hello! 👋
+# Hi, I'm Andy Zimmer 👋
 
-I'm Andy Zimmer, a geospatial scientist currently based at Oak Ridge National Laboratory.
-Before ORNL, I was a research scientist at Montana State University, where much of my work focused on population geography, urban change, food systems, and geospatial data science.
+I'm a geographer and geospatial scientist at **Oak Ridge National Laboratory**, and affiliate researcher at **Montana State University**.
 
-Please reach out if you're interested in research ideas or collaboration!
+I study population change, migration, urbanization, and human–environment relationships. My research combines spatial demography, GIS, remote sensing, and field research in Southern Africa to understand how population dynamics shape livelihoods and environmental exposure. At ORNL, I contribute to the **LandScan program**, developing population datasets and models.
 
-🌐 [ORNL Profile](https://www.ornl.gov/staff-profile/andrew-zimmer)  
-📚 [Google Scholar](https://scholar.google.com/citations?user=1-Xk5zMAAAAJ&hl=en)  
-✉️ [Email](mailto:zimmera@ornl.gov)
+I also teach and mentor students in geography, climate, and geospatial analysis, helping them connect research questions with data and communicate their findings.
 
-<p align="center">
-  <img src="docs/fig4a_slice.png" alt="profile map" width="100%">
-</p>
+### Selected projects
+
+- [Urban Demography](https://github.com/zimmermaps/urban_demography): Demographic change and migration across more than 10,000 cities.
+- [Hypsographic Demography](https://github.com/zimmermaps/hypsographic_demography): Population structure and change across elevation gradients.
+
+### Connect
+
+[ORNL](https://www.ornl.gov/staff-profile/andrew-zimmer) · [Google Scholar](https://scholar.google.com/citations?user=1-Xk5zMAAAAJ) · [ORCID](https://orcid.org/0000-0001-7683-8713) · [Email](mailto:zimmera@ornl.gov)
