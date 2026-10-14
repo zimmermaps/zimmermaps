@@ -25,8 +25,8 @@ Population change across 18 cities, 1975–2024.
       Demographic change across 10,000+ cities.
     </td>
     <td valign="top">
-      <a href="https://github.com/zimmermaps/hypsographic_demography"><img src="https://raw.githubusercontent.com/zimmermaps/hypsographic_demography/main/assets/population_by_elevation_continents/population_by_elevation_pyramid_continents_6panel.gif" alt="Population pyramids across elevation thresholds for six continents" width="100%"></a><br>
-      Population structure across elevation gradients.
+      <a href="https://github.com/zimmermaps/hypsographic_demography"><img src="docs/hypsographic-elevation-profile.gif" alt="Animated cumulative population by elevation for six continents in 2025" width="100%"></a><br>
+      Population across elevation gradients, 2025.
     </td>
   </tr>
 </table>
